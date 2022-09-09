@@ -66,7 +66,8 @@ Try this demo out at our [Playground](https://play.gogocode.io/#code/N4IglgdgDgr
 [gogocode-playground]: https://play.gogocode.io
 [gogocode-vscode]: https://marketplace.visualstudio.com/items?itemName=mmfe.vscode-gogocode
 
-## Support  废弃
+
+## Support 废弃
 
 -   [issues](https://github.com/thx/gogocode/issues)
 -   Ding Group：34266233
